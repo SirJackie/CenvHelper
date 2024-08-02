@@ -1,3 +1,20 @@
+# CenvHelper
+
+An Anaconda Environment Management Tool.
+
+`Cenv` stands for `Conda ENVironment` .
+
+## 1. 功能
+
+- `CENV_BACKUP.bat`：备份 Conda Environment 环境
+- `CENV_CREATE.bat`：创建 Conda Environment 环境
+- `CENV_DESTROY.bat`：销毁 Conda Environment 环境
+- `CENV_LIST_EXISTINGS.bat`：列出已经存在的 Conda Environment 环境
+- `CENV_RESTORE.bat`：恢复 Conda Environment 环境
+- `PENV_BACKUP_STEP1.bat`：备份 Pip Environment 环境（第一步）
+- `PENV_BACKUP_STEP2.bat`：备份 Pip Environment 环境（第二步）
+- `PENV_RESTORE.bat`：还原 Pip Environment 环境
+
 ## 2. 还原
 
 ### 第一步：创建虚拟环境
